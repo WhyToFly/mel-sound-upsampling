@@ -1,0 +1,4 @@
+[submodule "BasicSR"]
+	path = BasicSR
+	url = https://github.com/WhyToFly/BasicSR.git
+	branch = sound
